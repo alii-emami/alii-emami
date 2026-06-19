@@ -90,29 +90,6 @@ I enjoy building scalable applications, solving real-world problems with Python,
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alii-emami&theme=tokyo-night" />
 </p>
 
----
-
-# 📊 Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/alii-emami?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alii-emami&theme=tokyonight&margin-w=10&margin-h=10" />
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/alii-emami" />
-</p>
 
 ---
 
